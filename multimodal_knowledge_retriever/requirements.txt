@@ -5,7 +5,7 @@ langchain-community==0.3.1
 langchain-core==0.3.6
 langchain==0.3.1
 mypy==1.11.2
-nltk==3.8.1
+nltk==3.9.3
 pre-commit==4.0.1
 pydantic==2.9.2
 pydantic_core==2.23.4
