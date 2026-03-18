@@ -7,7 +7,7 @@ html2text==2024.2.26
 instructorembedding==1.0.1
 langchain-chroma == 0.1.4
 langchain-community==0.3.1
-langchain-core==0.3.6
+langchain-core==1.2.11
 langchain==0.3.1
 mypy==1.11.2
 pydantic-core==2.23.4
