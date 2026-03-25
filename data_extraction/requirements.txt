@@ -72,7 +72,7 @@ nibabel==5.1.0
 nipype==1.8.6
 numexpr==2.8.7
 numpy==1.26.0
-orjson==3.10.6
+orjson==3.11.6
 packaging==23.2
 pandas==2.1.1
 parso==0.8.3
@@ -92,7 +92,7 @@ pydantic==2.9.2
 pydot==1.4.2
 pypandoc==1.12
 pyparsing==3.1.1
-pypdf==3.16.2
+pypdf==6.9.2
 python-dateutil==2.8.2
 python-docx==1.1.0
 python-dotenv==1.0.1
@@ -100,7 +100,7 @@ pytz==2023.3.post1
 pyxnat==1.6
 pyzmq==25.1.1
 rdflib==7.0.0
-requests==2.31.0
+requests==2.33.0
 ruff==0.6.9
 scikit-learn==1.4.0 
 scipy==1.11.3
@@ -114,7 +114,7 @@ stack-data==0.6.3
 starlette==0.31.1
 tenacity==8.2.3
 threadpoolctl==3.2.0
-tornado==6.3.3
+tornado==6.5.5
 traitlets==5.11.2
 traits==6.3.2
 typing-inspect==0.9.0
