@@ -79,7 +79,7 @@ opencv-contrib-python==4.9.0.80
 opencv-python==4.9.0.80
 openpyxl==3.1.2
 opt-einsum==3.3.0
-orjson==3.10.6
+orjson==3.11.6
 packaging==23.2
 paddleocr==2.6.0.1
 paddlepaddle==2.6.0
@@ -106,7 +106,7 @@ pytz==2023.3.post1
 pyzmq==25.1.2
 rapidfuzz==3.6.1
 rarfile==4.1
-requests==2.31.0
+requests==2.33.0
 ruff==0.6.9
 scikit-image==0.22.0
 scikit-learn==1.4.0 
@@ -123,7 +123,7 @@ stack-data==0.6.3
 tenacity==8.2.3
 termcolor==2.4.0
 tifffile==2023.12.9
-tornado==6.4
+tornado==6.5.5
 tqdm==4.66.1
 traitlets==5.14.1
 typing-inspect==0.9.0
