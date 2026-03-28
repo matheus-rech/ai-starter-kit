@@ -106,7 +106,7 @@ pytz==2023.3.post1
 pyzmq==25.1.2
 rapidfuzz==3.6.1
 rarfile==4.1
-requests==2.31.0
+requests==2.33.0
 ruff==0.6.9
 scikit-image==0.22.0
 scikit-learn==1.4.0 
