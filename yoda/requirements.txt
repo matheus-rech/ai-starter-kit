@@ -17,7 +17,7 @@ pre-commit==4.0.1
 pycountry == 23.12.11
 pydantic==2.9.2
 pydantic_core==2.23.4
-python-dotenv==1.0.0
+python-dotenv==1.2.2
 rouge_score == 0.1.2
 ruff==0.6.9
 sacrebleu == 2.4.0
